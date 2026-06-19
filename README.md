@@ -14,14 +14,14 @@ An executive-level data analytics dashboard evaluating tactical metrics, attacki
 This professional, data-driven layout is split into three high-impact reporting zones to evaluate team success and tactical profiles:
 
 ### 1. Executive Summary KPIs
-* [cite_start]**Total Goals:** 203 cumulative goals scored across the league to establish the baseline production level[cite: 1].
-* [cite_start]**Total Expected Goals (xG):** 209.7 xG, highlighting structural chance creation and minor underperformance in finishing variance across the board[cite: 1].
-* [cite_start]**Average Possession:** 50.0% benchmark to track ball control baselines against club outcomes[cite: 1].
+**Total Goals:** 203 cumulative goals scored across the league to establish the baseline production level[cite: 1].
+**Total Expected Goals (xG):** 209.7 xG, highlighting structural chance creation and minor underperformance in finishing variance across the board[cite: 1].
+**Average Possession:** 50.0% benchmark to track ball control baselines against club outcomes[cite: 1].
 
 ### 2. Core Visualizations
-* [cite_start]**Top Teams by Goals (Horizontal Bar Chart):** Ranks the league's most lethal attacking units, showcasing Chelsea (16 goals), Arsenal (15 goals), and Manchester City (15 goals) leading the table[cite: 1].
+**Top Teams by Goals (Horizontal Bar Chart):** Ranks the league's most lethal attacking units, showcasing Chelsea (16 goals), Arsenal (15 goals), and Manchester City (15 goals) leading the table[cite: 1].
 * **xG vs. Goals Scatter Plot (Attacking Efficiency Matrix):** Maps clinical efficiency. Teams above the equilibrium line (like Bournemouth) are overperforming their expected output, while teams far below are failing to convert high-quality chances.
-* [cite_start]**Top Teams by Possession (Vertical Bar Chart):** Tracks the dominant possession-based systems, led by Liverpool, Manchester City, and Chelsea[cite: 1].
+**Top Teams by Possession (Vertical Bar Chart):** Tracks the dominant possession-based systems, led by Liverpool, Manchester City, and Chelsea[cite: 1].
 * **Top Teams by Progression Index (PrgP + PrgC):** Combines Progressive Passes and Progressive Carries to identify the most vertically aggressive, forward-moving teams in transition.
 * **Discipline Risk Index ($Yellow + 3 \times Red$):** A custom engineered safety risk metric weighting severe infractions. [cite_start]It highlights defensive volatility, with Chelsea leading at a risk index score of 28[cite: 1].
 
