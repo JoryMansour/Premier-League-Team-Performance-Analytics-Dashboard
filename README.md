@@ -34,6 +34,6 @@ This professional, data-driven layout is split into three high-impact reporting 
 ---
 
 ## 🛠️ Tech Stack & Methods
-* [cite_start]**Data Source:** `team_season_stats.csv` (Comprehensive multi-column league data tracking 35 performance metrics)[cite: 1].
+* [cite_start]**Data Source:** `team_season_stats.csv` (Comprehensive multi-column league data tracking 35 performance metrics).
 * **Architecture:** Structured with Power BI wireframing logic (KPI cards, side-by-side comparative matrices, dynamic filters representation, and a dedicated executive summary panel).
 * **Skills Demonstrated:** Data engineering, multi-indexed CSV parsing, feature engineering (Discipline Risk Index formulation), and executive dashboard UI design.
